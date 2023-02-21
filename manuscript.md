@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-21" />
   <meta name="citation_publication_date" content="2023-02-21" />
   <meta property="article:published_time" content="2023-02-21" />
-  <meta name="dc.modified" content="2023-02-21T14:09:23+00:00" />
-  <meta property="article:modified_time" content="2023-02-21T14:09:23+00:00" />
+  <meta name="dc.modified" content="2023-02-21T14:19:06+00:00" />
+  <meta property="article:modified_time" content="2023-02-21T14:19:06+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -51,9 +51,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://mamaxb.github.io/ictp2023/" />
   <meta name="citation_pdf_url" content="https://mamaxb.github.io/ictp2023/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://mamaxb.github.io/ictp2023/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://mamaxb.github.io/ictp2023/v/e46fd47ba71b618ac5c3fc878e0787c9456e9b0b/" />
-  <meta name="manubot_html_url_versioned" content="https://mamaxb.github.io/ictp2023/v/e46fd47ba71b618ac5c3fc878e0787c9456e9b0b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://mamaxb.github.io/ictp2023/v/e46fd47ba71b618ac5c3fc878e0787c9456e9b0b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://mamaxb.github.io/ictp2023/v/20aa2e179ec47ab48d0eb5c1b90bf9bb6e4c7c42/" />
+  <meta name="manubot_html_url_versioned" content="https://mamaxb.github.io/ictp2023/v/20aa2e179ec47ab48d0eb5c1b90bf9bb6e4c7c42/" />
+  <meta name="manubot_pdf_url_versioned" content="https://mamaxb.github.io/ictp2023/v/20aa2e179ec47ab48d0eb5c1b90bf9bb6e4c7c42/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://mamaxb.github.io/ictp2023/v/e46fd47ba71b618ac5c3fc878e0787c9456e9b0b/))
+([permalink](https://mamaxb.github.io/ictp2023/v/20aa2e179ec47ab48d0eb5c1b90bf9bb6e4c7c42/))
 was automatically generated
-from [mamaxb/ictp2023@e46fd47](https://github.com/mamaxb/ictp2023/tree/e46fd47ba71b618ac5c3fc878e0787c9456e9b0b)
+from [mamaxb/ictp2023@20aa2e1](https://github.com/mamaxb/ictp2023/tree/20aa2e179ec47ab48d0eb5c1b90bf9bb6e4c7c42)
 on February 21, 2023.
 </em></small>
 
@@ -133,7 +133,18 @@ Max-Maria Bisch \<max.bisch@uni-siegen.de\>.
 
 
 ## Abstract {.page_break_before}
-
+Belonging to the 3rd generation advanced high strength steels (AHSS), Quenching and Partitioning (Q&P)-steels exhibit
+an excellent combination of high strength and good ductility while having a similar alloying concept as the already existing
+1^st^ and 2^nd^ generation AHSS, such as DP- and TRIP-steels. While the mechanical properties are generally well
+understood, Q&P-steels are still subject to current research and can not be widely found in industrial applications. Driven
+by the need to decrease vehicles’ weight while maintaining high safety standards, the predictability of material behavior
+under dynamic load cases in simulations is a deciding factor for successful industrial usage. To widen the understanding
+of mechanical response to high-speed loading, a wide range of strain rates from 0.001^-1^ up to 1000^-1^ are conducted on
+two grades of Q&P-steels, namely QP980 and QP1180. Special attention is given to the hardening behavior, which is
+influenced by a rate-dependent TRIP effect. The effect of strain rate on the microstructure evolution is also investigated to
+enable the theoretical connection of the rate-dependent TRIP effect with the respective mechanical response. The
+influence of increased strength and ductility compared to classical AHSS, such as dual-phase steel DP1000, is finally
+validated on a generic axial crash structure commonly found in vehicle crash management systems [@doi:10/gpxvjm].
 
 
 
