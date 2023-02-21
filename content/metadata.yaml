@@ -17,6 +17,16 @@ authors:
     corresponding: true
   - name: Chongyang Zeng
     initials: CZ
-    email:
+    email: chongyang.zeng@uni-siegen.de
+    affiliations:
+      - Institute of Automotive Lightweight Design, University of Siegen, Siegen, Germany
+  - name: Rongfei Juan
+    email: rongfei.juan@aalto.fi
+    affiliations:
+      - Department of Mechanical Engineering, Aalto University, Espoo, Finland
+  - name: Junhe Lian
+    affiliations: 
+      - Department of Mechanical Engineering, Aalto University, Espoo, Finland
+  - name: Xiangfan Fang
     affiliations:
       - Institute of Automotive Lightweight Design, University of Siegen, Siegen, Germany

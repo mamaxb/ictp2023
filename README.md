@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# Submission preparation for ICTP2023
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -10,8 +10,8 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+Public repository for preparing a submission to the [International Conference of Plasticity Technology 2023](https://www.ictp2023.org/en/).
+The title of the submission is: **Rate-dependent hardening behavior and TRIP effect in Quenching and Partitioning steels for application in crash energy-absorbing structures**
 
 ## Manubot
 
