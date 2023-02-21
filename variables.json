@@ -10,9 +10,12 @@
     "date-meta": "2023-02-21",
     "author-meta": [
       "Max-Maria Bisch",
-      "Chongyang Zeng"
+      "Chongyang Zeng",
+      "Rongfei Juan",
+      "Junhe Lian",
+      "Xiangfan Fang"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"Rate-dependent hardening behavior and TRIP effect in Quenching and Partitioning steels for application in crash energy-absorbing structures\" />\n<meta name=\"citation_title\" content=\"Rate-dependent hardening behavior and TRIP effect in Quenching and Partitioning steels for application in crash energy-absorbing structures\" />\n<meta property=\"og:title\" content=\"Rate-dependent hardening behavior and TRIP effect in Quenching and Partitioning steels for application in crash energy-absorbing structures\" />\n<meta property=\"twitter:title\" content=\"Rate-dependent hardening behavior and TRIP effect in Quenching and Partitioning steels for application in crash energy-absorbing structures\" />\n<meta name=\"dc.date\" content=\"2023-02-21\" />\n<meta name=\"citation_publication_date\" content=\"2023-02-21\" />\n<meta property=\"article:published_time\" content=\"2023-02-21\" />\n<meta name=\"dc.modified\" content=\"2023-02-21T13:27:08+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-02-21T13:27:08+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Max-Maria Bisch\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Automotive Lightweight Design, University of Siegen, Siegen, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7591-6019\" />\n<meta name=\"citation_author\" content=\"Chongyang Zeng\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Automotive Lightweight Design, University of Siegen, Siegen, Germany\" />\n<link rel=\"canonical\" href=\"https://mamaxb.github.io/ictp2023/\" />\n<meta property=\"og:url\" content=\"https://mamaxb.github.io/ictp2023/\" />\n<meta property=\"twitter:url\" content=\"https://mamaxb.github.io/ictp2023/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://mamaxb.github.io/ictp2023/\" />\n<meta name=\"citation_pdf_url\" content=\"https://mamaxb.github.io/ictp2023/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://mamaxb.github.io/ictp2023/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://mamaxb.github.io/ictp2023/v/ae37974eceafe07c9e1fddd9cc3b116e89ade910/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://mamaxb.github.io/ictp2023/v/ae37974eceafe07c9e1fddd9cc3b116e89ade910/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://mamaxb.github.io/ictp2023/v/ae37974eceafe07c9e1fddd9cc3b116e89ade910/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"Rate-dependent hardening behavior and TRIP effect in Quenching and Partitioning steels for application in crash energy-absorbing structures\" />\n<meta name=\"citation_title\" content=\"Rate-dependent hardening behavior and TRIP effect in Quenching and Partitioning steels for application in crash energy-absorbing structures\" />\n<meta property=\"og:title\" content=\"Rate-dependent hardening behavior and TRIP effect in Quenching and Partitioning steels for application in crash energy-absorbing structures\" />\n<meta property=\"twitter:title\" content=\"Rate-dependent hardening behavior and TRIP effect in Quenching and Partitioning steels for application in crash energy-absorbing structures\" />\n<meta name=\"dc.date\" content=\"2023-02-21\" />\n<meta name=\"citation_publication_date\" content=\"2023-02-21\" />\n<meta property=\"article:published_time\" content=\"2023-02-21\" />\n<meta name=\"dc.modified\" content=\"2023-02-21T14:09:23+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-02-21T14:09:23+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Max-Maria Bisch\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Automotive Lightweight Design, University of Siegen, Siegen, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7591-6019\" />\n<meta name=\"citation_author\" content=\"Chongyang Zeng\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Automotive Lightweight Design, University of Siegen, Siegen, Germany\" />\n<meta name=\"citation_author\" content=\"Rongfei Juan\" />\n<meta name=\"citation_author_institution\" content=\"Department of Mechanical Engineering, Aalto University, Espoo, Finland\" />\n<meta name=\"citation_author\" content=\"Junhe Lian\" />\n<meta name=\"citation_author_institution\" content=\"Department of Mechanical Engineering, Aalto University, Espoo, Finland\" />\n<meta name=\"citation_author\" content=\"Xiangfan Fang\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Automotive Lightweight Design, University of Siegen, Siegen, Germany\" />\n<link rel=\"canonical\" href=\"https://mamaxb.github.io/ictp2023/\" />\n<meta property=\"og:url\" content=\"https://mamaxb.github.io/ictp2023/\" />\n<meta property=\"twitter:url\" content=\"https://mamaxb.github.io/ictp2023/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://mamaxb.github.io/ictp2023/\" />\n<meta name=\"citation_pdf_url\" content=\"https://mamaxb.github.io/ictp2023/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://mamaxb.github.io/ictp2023/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://mamaxb.github.io/ictp2023/v/e46fd47ba71b618ac5c3fc878e0787c9456e9b0b/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://mamaxb.github.io/ictp2023/v/e46fd47ba71b618ac5c3fc878e0787c9456e9b0b/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://mamaxb.github.io/ictp2023/v/e46fd47ba71b618ac5c3fc878e0787c9456e9b0b/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -24,7 +27,7 @@
   "manubot": {
     "date": "2023-02-21",
     "date_long": "February 21, 2023",
-    "generated": "2023-02-21T13:27:08+00:00",
+    "generated": "2023-02-21T14:09:23+00:00",
     "generated_date_long": "February 21, 2023",
     "randomize_author_order": false,
     "authors": [
@@ -45,7 +48,35 @@
       {
         "name": "Chongyang Zeng",
         "initials": "CZ",
-        "email": null,
+        "email": "chongyang.zeng@uni-siegen.de",
+        "affiliations": [
+          "Institute of Automotive Lightweight Design, University of Siegen, Siegen, Germany"
+        ],
+        "affiliation_numbers": [
+          1
+        ]
+      },
+      {
+        "name": "Rongfei Juan",
+        "email": "rongfei.juan@aalto.fi",
+        "affiliations": [
+          "Department of Mechanical Engineering, Aalto University, Espoo, Finland"
+        ],
+        "affiliation_numbers": [
+          2
+        ]
+      },
+      {
+        "name": "Junhe Lian",
+        "affiliations": [
+          "Department of Mechanical Engineering, Aalto University, Espoo, Finland"
+        ],
+        "affiliation_numbers": [
+          2
+        ]
+      },
+      {
+        "name": "Xiangfan Fang",
         "affiliations": [
           "Institute of Automotive Lightweight Design, University of Siegen, Siegen, Germany"
         ],
@@ -58,6 +89,10 @@
       {
         "affiliation": "Institute of Automotive Lightweight Design, University of Siegen, Siegen, Germany",
         "affiliation_number": 1
+      },
+      {
+        "affiliation": "Department of Mechanical Engineering, Aalto University, Espoo, Finland",
+        "affiliation_number": 2
       }
     ],
     "ci_source": {
@@ -65,19 +100,19 @@
       "repo_slug": "mamaxb/ictp2023",
       "repo_owner": "mamaxb",
       "repo_name": "ictp2023",
-      "commit": "ae37974eceafe07c9e1fddd9cc3b116e89ade910",
-      "triggering_commit": "ae37974eceafe07c9e1fddd9cc3b116e89ade910",
-      "build_url": "https://github.com/mamaxb/ictp2023/commit/ae37974eceafe07c9e1fddd9cc3b116e89ade910/checks",
-      "job_url": "https://github.com/mamaxb/ictp2023/actions/runs/4233115252"
+      "commit": "e46fd47ba71b618ac5c3fc878e0787c9456e9b0b",
+      "triggering_commit": "e46fd47ba71b618ac5c3fc878e0787c9456e9b0b",
+      "build_url": "https://github.com/mamaxb/ictp2023/commit/e46fd47ba71b618ac5c3fc878e0787c9456e9b0b/checks",
+      "job_url": "https://github.com/mamaxb/ictp2023/actions/runs/4233468920"
     },
     "html_url": "https://mamaxb.github.io/ictp2023/",
     "pdf_url": "https://mamaxb.github.io/ictp2023/manuscript.pdf",
-    "html_url_versioned": "https://mamaxb.github.io/ictp2023/v/ae37974eceafe07c9e1fddd9cc3b116e89ade910/",
-    "pdf_url_versioned": "https://mamaxb.github.io/ictp2023/v/ae37974eceafe07c9e1fddd9cc3b116e89ade910/manuscript.pdf",
+    "html_url_versioned": "https://mamaxb.github.io/ictp2023/v/e46fd47ba71b618ac5c3fc878e0787c9456e9b0b/",
+    "pdf_url_versioned": "https://mamaxb.github.io/ictp2023/v/e46fd47ba71b618ac5c3fc878e0787c9456e9b0b/manuscript.pdf",
     "manubot_version": "0.5.5",
     "rootstock_commit": "47b6cf6b810ca9b8bacf846dae9318fac17a09c9",
     "manuscript_stats": {
-      "word_count": 1552
+      "word_count": 394
     }
   }
 }
