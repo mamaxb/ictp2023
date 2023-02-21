@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/mamaxb/ictp2023/tree/gh-pages) branch hosts the contents of this directory at <https://mamaxb.github.io/ictp2023/>.
-The permalink for this webpage version is <https://mamaxb.github.io/ictp2023/v/20aa2e179ec47ab48d0eb5c1b90bf9bb6e4c7c42/>.
+The permalink for this webpage version is <https://mamaxb.github.io/ictp2023/v/95c07a24f0bb5af2f340a1b06eea53f036ef8ab0/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://mamaxb.github.io/ictp2023/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`20aa2e179ec47ab48d0eb5c1b90bf9bb6e4c7c42`](https://github.com/mamaxb/ictp2023/commit/20aa2e179ec47ab48d0eb5c1b90bf9bb6e4c7c42).
+[`95c07a24f0bb5af2f340a1b06eea53f036ef8ab0`](https://github.com/mamaxb/ictp2023/commit/95c07a24f0bb5af2f340a1b06eea53f036ef8ab0).
