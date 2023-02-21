@@ -1,30 +1,22 @@
 ---
-title: "Manuscript Title"
+title: "Rate-dependent hardening behavior and TRIP effect in Quenching and Partitioning steels for application in crash energy-absorbing structures"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - High-speed testing
+  - Q&P steel
+  - TRIP effect
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
-    mastodon-server: mastodon.social
-    email: john.doe@something.com
+  - github: mamaxb
+    name: Max-Maria Bisch
+    initials: MMB
+    orcid: 0000-0002-7591-6019
+    email: max.bisch@uni-siegen.de
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Institute of Automotive Lightweight Design, University of Siegen, Siegen, Germany
     corresponding: true
+  - name: Chongyang Zeng
+    initials: CZ
+    email:
+    affiliations:
+      - Institute of Automotive Lightweight Design, University of Siegen, Siegen, Germany
