@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-21" />
   <meta name="citation_publication_date" content="2023-02-21" />
   <meta property="article:published_time" content="2023-02-21" />
-  <meta name="dc.modified" content="2023-02-21T14:51:01+00:00" />
-  <meta property="article:modified_time" content="2023-02-21T14:51:01+00:00" />
+  <meta name="dc.modified" content="2023-02-21T15:11:49+00:00" />
+  <meta property="article:modified_time" content="2023-02-21T15:11:49+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -51,9 +51,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://mamaxb.github.io/ictp2023/" />
   <meta name="citation_pdf_url" content="https://mamaxb.github.io/ictp2023/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://mamaxb.github.io/ictp2023/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://mamaxb.github.io/ictp2023/v/5bb56dc91265d3bb10245efc34efd4c3a9e961aa/" />
-  <meta name="manubot_html_url_versioned" content="https://mamaxb.github.io/ictp2023/v/5bb56dc91265d3bb10245efc34efd4c3a9e961aa/" />
-  <meta name="manubot_pdf_url_versioned" content="https://mamaxb.github.io/ictp2023/v/5bb56dc91265d3bb10245efc34efd4c3a9e961aa/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://mamaxb.github.io/ictp2023/v/f01aedd97d1a1a1ddc850c982fa0256171c28588/" />
+  <meta name="manubot_html_url_versioned" content="https://mamaxb.github.io/ictp2023/v/f01aedd97d1a1a1ddc850c982fa0256171c28588/" />
+  <meta name="manubot_pdf_url_versioned" content="https://mamaxb.github.io/ictp2023/v/f01aedd97d1a1a1ddc850c982fa0256171c28588/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://mamaxb.github.io/ictp2023/v/5bb56dc91265d3bb10245efc34efd4c3a9e961aa/))
+([permalink](https://mamaxb.github.io/ictp2023/v/f01aedd97d1a1a1ddc850c982fa0256171c28588/))
 was automatically generated
-from [mamaxb/ictp2023@5bb56dc](https://github.com/mamaxb/ictp2023/tree/5bb56dc91265d3bb10245efc34efd4c3a9e961aa)
+from [mamaxb/ictp2023@f01aedd](https://github.com/mamaxb/ictp2023/tree/f01aedd97d1a1a1ddc850c982fa0256171c28588)
 on February 21, 2023.
 </em></small>
 
@@ -165,7 +165,7 @@ They report an improved mechanical response of QP980 until necking compared to D
 Afterward, due to their similar microstructure, they behave comparably until fracture.
 
 ## Experimental Programme
-![Flowcurve](images/experimental/hardening_vs_flowcurve_rt_vs_100.eps)
+![QP1180-Lowspeed-Flowcurves](images/experimental/QP1180_Lowspeed_Flowcurves.svg){#fig:qp1180-lowspeed-flowcurves}![QP1180-Lowspeed-Flowcurves](images/experimental/QP1180_Highspeed_Flowcurves.svg){#fig:qp1180-lowspeed-flowcurves}
 
 ## References {.page_break_before}
 
