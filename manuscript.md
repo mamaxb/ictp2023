@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-21" />
   <meta name="citation_publication_date" content="2023-02-21" />
   <meta property="article:published_time" content="2023-02-21" />
-  <meta name="dc.modified" content="2023-02-21T14:38:26+00:00" />
-  <meta property="article:modified_time" content="2023-02-21T14:38:26+00:00" />
+  <meta name="dc.modified" content="2023-02-21T14:51:01+00:00" />
+  <meta property="article:modified_time" content="2023-02-21T14:51:01+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -51,9 +51,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://mamaxb.github.io/ictp2023/" />
   <meta name="citation_pdf_url" content="https://mamaxb.github.io/ictp2023/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://mamaxb.github.io/ictp2023/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://mamaxb.github.io/ictp2023/v/95c07a24f0bb5af2f340a1b06eea53f036ef8ab0/" />
-  <meta name="manubot_html_url_versioned" content="https://mamaxb.github.io/ictp2023/v/95c07a24f0bb5af2f340a1b06eea53f036ef8ab0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://mamaxb.github.io/ictp2023/v/95c07a24f0bb5af2f340a1b06eea53f036ef8ab0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://mamaxb.github.io/ictp2023/v/5bb56dc91265d3bb10245efc34efd4c3a9e961aa/" />
+  <meta name="manubot_html_url_versioned" content="https://mamaxb.github.io/ictp2023/v/5bb56dc91265d3bb10245efc34efd4c3a9e961aa/" />
+  <meta name="manubot_pdf_url_versioned" content="https://mamaxb.github.io/ictp2023/v/5bb56dc91265d3bb10245efc34efd4c3a9e961aa/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://mamaxb.github.io/ictp2023/v/95c07a24f0bb5af2f340a1b06eea53f036ef8ab0/))
+([permalink](https://mamaxb.github.io/ictp2023/v/5bb56dc91265d3bb10245efc34efd4c3a9e961aa/))
 was automatically generated
-from [mamaxb/ictp2023@95c07a2](https://github.com/mamaxb/ictp2023/tree/95c07a24f0bb5af2f340a1b06eea53f036ef8ab0)
+from [mamaxb/ictp2023@5bb56dc](https://github.com/mamaxb/ictp2023/tree/5bb56dc91265d3bb10245efc34efd4c3a9e961aa)
 on February 21, 2023.
 </em></small>
 
@@ -160,9 +160,12 @@ Strength and ductility-wise, they fall between the 1^st^ and 2^nd^ generations.
 The three most mature grades are Carbide-free bainitic steels (CFB), Medium-Mn steels, and Quenching and Partitioning steels (QP).
 Most of these 3^rd^ generation steel grades depend on the TRIP effect, which is based upon the phase transformation mechanism of austenite to martensite.
 This mechanism is induced by the deformation of the material such that a given amount of retained austenite is transformed, thus providing an additional hardening mechanism to the material's mechanical response.
-Based on this description, it is easy to recognize that the resulting hardening behavior strongly depends on the amount and properties of the retained austenite phase as shown by \cite[doi:10/grnffb].
+Based on this description, it is easy to recognize that the resulting hardening behavior strongly depends on the amount and properties of the retained austenite phase as shown by [@doi:10/grnffb].
 They report an improved mechanical response of QP980 until necking compared to DP980.
 Afterward, due to their similar microstructure, they behave comparably until fracture.
+
+## Experimental Programme
+![Flowcurve](images/experimental/hardening_vs_flowcurve_rt_vs_100.eps)
 
 ## References {.page_break_before}
 
