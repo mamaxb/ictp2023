@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-21" />
   <meta name="citation_publication_date" content="2023-02-21" />
   <meta property="article:published_time" content="2023-02-21" />
-  <meta name="dc.modified" content="2023-02-21T14:19:06+00:00" />
-  <meta property="article:modified_time" content="2023-02-21T14:19:06+00:00" />
+  <meta name="dc.modified" content="2023-02-21T14:38:26+00:00" />
+  <meta property="article:modified_time" content="2023-02-21T14:38:26+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -51,9 +51,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://mamaxb.github.io/ictp2023/" />
   <meta name="citation_pdf_url" content="https://mamaxb.github.io/ictp2023/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://mamaxb.github.io/ictp2023/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://mamaxb.github.io/ictp2023/v/20aa2e179ec47ab48d0eb5c1b90bf9bb6e4c7c42/" />
-  <meta name="manubot_html_url_versioned" content="https://mamaxb.github.io/ictp2023/v/20aa2e179ec47ab48d0eb5c1b90bf9bb6e4c7c42/" />
-  <meta name="manubot_pdf_url_versioned" content="https://mamaxb.github.io/ictp2023/v/20aa2e179ec47ab48d0eb5c1b90bf9bb6e4c7c42/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://mamaxb.github.io/ictp2023/v/95c07a24f0bb5af2f340a1b06eea53f036ef8ab0/" />
+  <meta name="manubot_html_url_versioned" content="https://mamaxb.github.io/ictp2023/v/95c07a24f0bb5af2f340a1b06eea53f036ef8ab0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://mamaxb.github.io/ictp2023/v/95c07a24f0bb5af2f340a1b06eea53f036ef8ab0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://mamaxb.github.io/ictp2023/v/20aa2e179ec47ab48d0eb5c1b90bf9bb6e4c7c42/))
+([permalink](https://mamaxb.github.io/ictp2023/v/95c07a24f0bb5af2f340a1b06eea53f036ef8ab0/))
 was automatically generated
-from [mamaxb/ictp2023@20aa2e1](https://github.com/mamaxb/ictp2023/tree/20aa2e179ec47ab48d0eb5c1b90bf9bb6e4c7c42)
+from [mamaxb/ictp2023@95c07a2](https://github.com/mamaxb/ictp2023/tree/95c07a24f0bb5af2f340a1b06eea53f036ef8ab0)
 on February 21, 2023.
 </em></small>
 
@@ -139,7 +139,7 @@ an excellent combination of high strength and good ductility while having a simi
 understood, Q&P-steels are still subject to current research and can not be widely found in industrial applications. Driven
 by the need to decrease vehicles’ weight while maintaining high safety standards, the predictability of material behavior
 under dynamic load cases in simulations is a deciding factor for successful industrial usage. To widen the understanding
-of mechanical response to high-speed loading, a wide range of strain rates from 0.001^-1^ up to 1000^-1^ are conducted on
+of mechanical response to high-speed loading, a wide range of strain rates from 0.001s^-1^ up to 1000s^-1^ are conducted on
 two grades of Q&P-steels, namely QP980 and QP1180. Special attention is given to the hardening behavior, which is
 influenced by a rate-dependent TRIP effect. The effect of strain rate on the microstructure evolution is also investigated to
 enable the theoretical connection of the rate-dependent TRIP effect with the respective mechanical response. The
@@ -147,6 +147,22 @@ influence of increased strength and ductility compared to classical AHSS, such a
 validated on a generic axial crash structure commonly found in vehicle crash management systems [@doi:10/gpxvjm].
 
 
+
+## Introduction
+Under the pressure of global warming, the automotive industry is subject to a plethora of increasingly strict requirements regarding their fleet's greenhouse gas emissions, culminating in the full transition to battery electric vehicles (BEV).
+Current BEVs still lack the range of traditional internal combustion engine (ICE) vehicles, making them a particular target for light weighting efforts.
+Apart from substituting large parts of the vehicle's structure with lightweight materials such as aluminum- and magnesium alloys which can be cost-prohibitive, the development of advanced high-strength steels (AHSS) is an ongoing effort to create new steel grades with an improved combination of strength and ductility while keeping the cost down.
+The category of AHSS is currently loosely divided into three generations. The 1^st^ generation AHSS including grades such as dual phase (DP) and complex phase (CP) steels, as well as transformation-induced plasticity steels (TRIP), are currently used in industrial applications and pose an improved behavior compared to conventional high-strength steels.
+To further increase their strength, the 2^nd^ generation of AHSS was developed. This includes grades such as full austenitic stainless steels and twinning-induced plasticity steels (TWIP).
+These alloys offer excellent mechanical properties but, unfortunately, achieve this by high amounts of expensive alloying elements such as manganese. 
+Therefore, the 3^rd^ generation of AHSS was developed and made commercially available in recent years.
+Strength and ductility-wise, they fall between the 1^st^ and 2^nd^ generations.
+The three most mature grades are Carbide-free bainitic steels (CFB), Medium-Mn steels, and Quenching and Partitioning steels (QP).
+Most of these 3^rd^ generation steel grades depend on the TRIP effect, which is based upon the phase transformation mechanism of austenite to martensite.
+This mechanism is induced by the deformation of the material such that a given amount of retained austenite is transformed, thus providing an additional hardening mechanism to the material's mechanical response.
+Based on this description, it is easy to recognize that the resulting hardening behavior strongly depends on the amount and properties of the retained austenite phase as shown by \cite[doi:10/grnffb].
+They report an improved mechanical response of QP980 until necking compared to DP980.
+Afterward, due to their similar microstructure, they behave comparably until fracture.
 
 ## References {.page_break_before}
 
